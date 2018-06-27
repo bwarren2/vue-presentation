@@ -39,5 +39,6 @@ If you like prototyping like I do, Vue has low up-front costs.
 ### Github stars
 
 
+![Stars by library](img/stars.png)
 
 ---

@@ -1,15 +1,25 @@
-# Flux
+# Vue
 
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+Exploring a frontend framework
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### What is Vue
+
+- Progressive user interface framework (lots of different libraries to glue together, "batteries optional")
+- It's the view layer
+- It's like React
+
+---
+
+### Why do I care?
+
+Vue has:
+
+- frontend power with lower complexity
+- a very shallow learning curve
+- comparable performance to major frameworks, ex React
+- a tiny footprint
+
+---
+

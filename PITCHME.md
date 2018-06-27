@@ -20,7 +20,7 @@ Vue has:
 - frontend power with lower complexity
 - a very shallow learning curve
 - comparable performance to major frameworks, ex React
-- a tiny footprint
+- a tiny memory footprint (~30KB)
 
 ---
 

@@ -44,6 +44,8 @@
     }
     </code>
     </p>
+      <h2>And I can use computed data</h2>
+      <p>The class string has {{class_es}} e's.</p>
 
     </section>
 
@@ -83,7 +85,11 @@ export default {
     decrement(){
       this.$data.counter--;
     }
-
+  },
+  computed:{
+    class_es(){
+      return (this.$data.class_msg.match(/e/g) || []).length
+    }
   }
 }
 </script>
